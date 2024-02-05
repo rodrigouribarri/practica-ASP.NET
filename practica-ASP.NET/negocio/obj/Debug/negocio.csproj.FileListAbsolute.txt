@@ -1,0 +1,18 @@
+C:\Users\Pc\source\repos\PokemonApp\negocio\bin\Debug\negocio.dll
+C:\Users\Pc\source\repos\PokemonApp\negocio\bin\Debug\negocio.pdb
+C:\Users\Pc\source\repos\PokemonApp\negocio\bin\Debug\dominio.dll
+C:\Users\Pc\source\repos\PokemonApp\negocio\bin\Debug\dominio.pdb
+C:\Users\Pc\source\repos\PokemonApp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\PokemonApp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Pc\source\repos\PokemonApp\negocio\obj\Debug\negocio.dll
+C:\Users\Pc\source\repos\PokemonApp\negocio\obj\Debug\negocio.pdb
+C:\Users\Pc\source\repos\PokemonApp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\bin\Debug\negocio.dll
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\bin\Debug\negocio.pdb
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\bin\Debug\dominio.dll
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\bin\Debug\dominio.pdb
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\obj\Debug\negocio.dll
+C:\Users\Pc\Desktop\Programacion\C#\Curso C# nivel 3\Pokedex-web\negocio\obj\Debug\negocio.pdb
